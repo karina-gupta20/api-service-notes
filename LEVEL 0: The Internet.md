@@ -148,7 +148,7 @@ You save:
 ```text
 Mom
 Dad
-Rahul
+Friend
 ```
 
 instead of:
